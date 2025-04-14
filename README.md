@@ -1,11 +1,6 @@
 <table>
   <tr>
     <h3> Hi there I'm Harika Mangu👋</h3>
-
-<!--
-**harika16-mangu/harika16-mangu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
     <ul>
       <li>🔭 I’m currently working on improving myself 1% better everyday.</li>
       <li>🌱 I’m currently learning Generative AI and building no code agents</li>
